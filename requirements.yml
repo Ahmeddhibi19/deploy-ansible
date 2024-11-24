@@ -1,0 +1,10 @@
+- src: https://github.com/Ahmeddhibi19/install-docker.git
+  name: docker
+  version: master
+  scm: git
+
+- src: https://github.com/Ahmeddhibi19/service-install-run.git
+  name: service_install_run
+  version: master
+  scm: git
+

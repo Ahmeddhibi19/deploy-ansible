@@ -1,0 +1,6 @@
+all:
+  children:
+    eduhousing:
+      hosts:
+        192.168.5.3:
+

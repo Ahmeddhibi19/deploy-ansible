@@ -1,0 +1,6 @@
+- name: install eduhousing
+  hosts: eduhousing
+  become: yes
+  roles:
+  - docker
+  - service_install_run
